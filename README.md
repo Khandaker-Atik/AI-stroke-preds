@@ -1,1 +1,1 @@
-# AI-stroke-preds
+# Stroke Prediction AI
